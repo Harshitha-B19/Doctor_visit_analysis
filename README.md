@@ -1,5 +1,5 @@
 # Doctor_visit_analysis
-Doctor visit analysis is a data analysis project whcih is assigned during my internship from TASK and IBM during May - July 2023 as data analyst role.
+Doctor visit analysis is a data analysis project whcih is assigned during my internship from TASK and IBM during June - July 2023 as data analyst role.
 
 Python IDE: Jupyter Notebook
 
